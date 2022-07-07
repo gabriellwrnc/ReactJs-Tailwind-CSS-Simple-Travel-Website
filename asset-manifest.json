@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0ddbe77.css",
+    "main.js": "/static/js/main.9cfccfae.js",
+    "static/media/beachVid.mp4": "/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "index.html": "/index.html",
+    "main.d0ddbe77.css.map": "/static/css/main.d0ddbe77.css.map",
+    "main.9cfccfae.js.map": "/static/js/main.9cfccfae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ddbe77.css",
+    "static/js/main.9cfccfae.js"
+  ]
+}
