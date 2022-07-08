@@ -1,4 +1,5 @@
 import React from "react";
+import Destination from "./component/Destination";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar/>
       <Hero/>
+      <Destination/>
     </div>
   );
 }
